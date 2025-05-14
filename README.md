@@ -4,7 +4,6 @@ A modern and responsive **Accordion Component** built with **HTML**, **CSS**, an
 
 🔗 **Live Demo:**  
 👉 [View it here](https://matheus-lmacedo.github.io/Accordion/)  
-> _(Note: Replace with the actual link if different)_
 
 ---
 

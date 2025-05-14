@@ -40,3 +40,8 @@ To run the project locally:
 2. Navigate to the project folder:
    ```bash
    cd Accordion
+   
+Happy coding! 🚀👨‍💻
+
+## 📄 License
+This project is licensed under the MIT License.

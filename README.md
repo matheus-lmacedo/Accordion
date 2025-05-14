@@ -37,7 +37,7 @@ To run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/matheus-lmacedo/accordion.git
+   git clone https://github.com/matheus-lmacedo/Accordion.git
 2. Navigate to the project folder:
    ```bash
-   cd accordion
+   cd Accordion
